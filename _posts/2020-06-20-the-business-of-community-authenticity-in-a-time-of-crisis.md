@@ -1,8 +1,8 @@
 ---
-title: Euro Retailers in the U.S.
-author_staff_member:
-date: 2020-06-20 16:35:44
-excerpt:
+title: 'The Business of Community: Authenticity in a Time of Crisis'
+author_staff_member: bob-stec
+date: 2020-06-20 16:35:00
+excerpt: How does a business survive in times of crisis?
 ---
 
 **The Business of Community: Authenticity in a Time of Crisis**
